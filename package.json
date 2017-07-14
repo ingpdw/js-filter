@@ -1,6 +1,6 @@
 {
   "name": "js-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "filter JSON data in javascript",
   "main": "index.js",
   "author": {
